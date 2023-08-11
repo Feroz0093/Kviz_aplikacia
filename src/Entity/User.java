@@ -51,4 +51,13 @@ public class User {
     public void setEmail(String email) {
         this.email = email;
     }
+
+    public void setSkore(Integer skore) {
+        this.skore = skore;
+    }
+
+    public void setJe_admin(Integer je_admin) {
+        this.je_admin = je_admin;
+    }
+
 }
