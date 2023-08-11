@@ -8,4 +8,8 @@ public class Start {
     public ArrayList<Quiz> getKvizy() {
         return kvizy;
     }
+
+    public void setKvizy(ArrayList<Quiz> kvizy) {
+        this.kvizy = kvizy;
+    }
 }
